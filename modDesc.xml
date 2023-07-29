@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="76">
+    <author>Bodzio528</author>
+    <version>1.0.0.1</version>
+    <title>
+        <en>Penalty For Crop Destruction</en>
+        <de>Strafe Für Erntevernichtung</de>
+        <pl>Kara Za Zniszczone Plony</pl>
+        <fr>Pénalité Pour Destruction De Récoltes</fr>
+        <es>Sanción Por Destrucción De Cultivos</es>
+    </title>
+    <description>
+        <en><![CDATA[Introduce penalty for destroying NPCs' crops
+
+This mod penalizes taking shortcuts trough NPC-controlled fields. Penalty is calculated by taking into account:
+- wheel size and type
+- number of wheels that touch the crops
+- distance driven over cultivated ground
+]]></en>
+        <de><![CDATA[Führen Sie eine Strafe für die Zerstörung der Ernte durch den NPC ein
+
+Dieser Mod bestraft die Verwendung von Verknüpfungen durch NPC-gesteuerte Felder. Die Strafe wird berechnet unter Berücksichtigung von:
+- Radgröße und -typ
+- Anzahl der Räder, die die Ernte berühren
+- Entfernung über bebauten Boden gefahren
+]]></de>
+        <pl><![CDATA[Koniec z bezkarnym zajeżdżaniem pola sąsiada. Zepsułeś? Zapłacisz - od razu.
+
+Ten mod nakłada karę za jazdę na skróty przez pola kontrolowane przez NPC. Kara jest obliczana na podstawie:
+- rozmiaru i typu kół, które mają kontakt z uprawami
+- odległośći przejechanej po uprawianej ziemi
+]]></pl>
+        <fr><![CDATA[Introduire une pénalité pour la destruction des récoltes de PNJ
+
+Ce mod pénalise la prise de raccourcis dans les champs contrôlés par les PNJ. La pénalité est calculée en tenant compte:
+- taille et type de roue
+- nombre de roues qui touchent les cultures
+- distance parcourue sur terrain cultivé
+]]></fr>
+        <ru><![CDATA[Ввести штраф за уничтожение посевов
+
+Этот мод наказывает за использование ярлыков через поля, контролируемые NPC. Штраф рассчитывается с учетом:
+- размер и тип колес, которые касаются посевов
+- пройденное расстояние по обрабатываемой земле
+]]></ru>
+    </description>
+
+    <iconFilename>icon_noTrespassing.dds</iconFilename>
+
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>	
+        <sourceFile filename="NoTrespassing_loader.lua"/> 
+    </extraSourceFiles>
+
+    <actions/>
+
+    <inputBinding/>
+
+    <l10n filenamePrefix="translations/translation"/>
+</modDesc>

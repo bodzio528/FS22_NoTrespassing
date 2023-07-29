@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<giantsDebuggerProject>
+    <projectName>FS19_NoTrespassing</projectName>
+    <projectBaseDirectory></projectBaseDirectory>
+    <gameUserProfileAppDirectory>%gameuserprofile%/FarmingSimulator2019/</gameUserProfileAppDirectory>
+    <gameSourceDirectory>D:/Epic Games/FarmingSimulator19/</gameSourceDirectory>
+    <gameSourceVersion>Farming_Simulator_19-1.7.1.0</gameSourceVersion>
+    <launchWorkingDirectory>D:/Epic Games/FarmingSimulator19/</launchWorkingDirectory>
+    <launchExecutable>D:/Epic Games/FarmingSimulator19/FarmingSimulator2019.exe</launchExecutable>
+    <launchParameters>-restart -autoStartSavegameId 3</launchParameters>
+</giantsDebuggerProject>

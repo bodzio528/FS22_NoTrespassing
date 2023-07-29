@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<l10n>
+    <texts>
+        <text name="noTrespassing_warning_penalty" text="Повреждение посевов" />
+        <text name="noTrespassing_total_cost_label" text="Штраф" />
+        <text name="noTrespassing_total_cost_notification" text="Компенсация" />
+    </texts>
+</l10n>

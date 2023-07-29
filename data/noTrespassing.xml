@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<noTrespassing>
+    <!-- get higher penalty on more challenging difficulty setting -->
+    <difficulty easy="0.500000" normal="1.000000" hard="2.000000"/>
+ 
+    <!-- driving over field: dollars per square meter (approximated)-->
+    <ground base="3.000000"/>
+</noTrespassing>
